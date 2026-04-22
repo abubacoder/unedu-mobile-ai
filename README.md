@@ -133,7 +133,7 @@ UnEdu transforms this into a **clear, data-driven process**
 
 ## 👤 Author
 
-**Abdulatif Toxirjonov **
+**Abdulatif Toxirjonov**
 Aspiring Software Engineer focused on:
 
 * AI Systems
